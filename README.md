@@ -1,6 +1,6 @@
-# 🏷️ Annotation LLM — Cyberharcèlement
+# Annotation LLM pour des messages de Cyberharcèlement
 
-Annotation automatisée des émotions dans des messages de cyberharcèlement (11-18 ans, français) via différents LLMs.
+Annotation automatisée des émotions dans [ce corpus](https://github.com/aollagnier/CyberAgression-Large) de messages de cyberharcèlement (11-18 ans, français) via différents LLMs.
 
 ## Architecture
 
@@ -26,7 +26,7 @@ Annotation/
 ## Installation
 
 ```bash
-git clone <repo-url> && cd Annotation
+git clone https://github.com/GwenONERA/a && cd Annotation
 pip install -r requirements.txt
 ```
 
